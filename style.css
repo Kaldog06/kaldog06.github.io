@@ -1,7 +1,7 @@
-body.dark-theme {
+body {
     color: #eee;
     background: #121212;
   }
-  body.dark-theme a {
+  body a {
     color: #809fff;
   }
