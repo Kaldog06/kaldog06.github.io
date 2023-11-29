@@ -1,3 +1,3 @@
-test = "hi2"
+test = "hi2";
 
-console.log("Why are you looking here?")
+console.log(test);
