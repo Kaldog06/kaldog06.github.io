@@ -1,3 +1,3 @@
-test = "hi21231231";
+test = "hi";
 
 console.log(test);
