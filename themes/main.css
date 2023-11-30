@@ -6,9 +6,6 @@ body {
     background: #121212;
 }
 
-/* Specify in CSS */
-code { font-family: 'Fira Code', monospace; }
-
-@supports (font-variation-settings: normal) {
-  code { font-family: 'Fira Code VF', monospace; }
+:body {
+    font-family: 'Fira Code', monospace;
 }
