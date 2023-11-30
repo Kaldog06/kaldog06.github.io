@@ -4,8 +4,5 @@
 body {
     color: #eee;
     background: #121212;
-}
-
-:body {
     font-family: 'Fira Code', monospace;
 }
