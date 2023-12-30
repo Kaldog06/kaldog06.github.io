@@ -8,6 +8,7 @@ body {
 }
 
 .collapsible {
+  font-family: 'Fira Code', monospace;
   border: 2px solid black;
   background-color: #121212;
   color: #eee;
