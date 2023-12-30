@@ -6,3 +6,9 @@ body {
     background: #121212;
     font-family: 'Fira Code', monospace;
 }
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+}
