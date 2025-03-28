@@ -15,13 +15,9 @@
 .visual-refresh .bottom__7aaec {
     bottom: calc(var(--custom-app-panels-height, 0) + 24px);
 }
-/* Server List - Bottom */
-.visual-refresh .scroller_ef3116 {
-    padding-bottom: 24px;
-}
-/* Server List - New Ping */
-.visual-refresh .unreadMentionsIndicatorBottom_ef3116 {
-    padding-bottom: 24px;
+/* Server List */
+.visual-refresh .wrapper_ef3116 {
+	margin-bottom: calc(var(--custom-app-panels-height, 0) + 24px)
 }
 
 /* DM List - Bottom */
