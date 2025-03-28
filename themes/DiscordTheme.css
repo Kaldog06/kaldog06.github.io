@@ -1,26 +1,30 @@
 /* Profile Panel - Height From Bottom */
 .visual-refresh .panels_c48ade {
-  	bottom: 24px;
+    bottom: 24px;
 }
 /* Profile Panel - Height */
 .visual-refresh .container__37e49 {
-  	height: 52px;
+    height: 52px;
 }
 
-/* Channel List - Bottom */
-.visual-refresh .scroller__629e4 {
-  	margin-bottom: 24px;
+/* Channel List Container */
+.visual-refresh .container__2637a {
+    padding-bottom: calc(var(--custom-app-panels-height, 0) + 24px)
+}
+/* Channel List - New Message */
+.visual-refresh .bottom__7aaec {
+    bottom: calc(var(--custom-app-panels-height, 0) + 24px);
 }
 /* Server List - Bottom */
 .visual-refresh .scroller_ef3116 {
-  	padding-bottom: 24px;
+    padding-bottom: 24px;
 }
 /* Server List - New Ping */
 .visual-refresh .unreadMentionsIndicatorBottom_ef3116 {
-  	padding-bottom: 24px;
+    padding-bottom: 24px;
 }
 
 /* DM List - Bottom */
 .visual-refresh .scroller__99e7c {
-  	margin-bottom: calc(var(--custom-app-panels-height, 0) + 25px);
+    margin-bottom: calc(var(--custom-app-panels-height, 0) + 24px);
 }
